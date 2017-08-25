@@ -162,8 +162,6 @@ box-sizing: border-box;
 
 .btn-border-black {
 	font-family: "Futura PT Heavy", Arial, sans-serif;
-	width: 135px;
-	height: 46px;
 	border: 2px solid #000;
 	color: #74e196;
 	font-size: 15px;
@@ -172,6 +170,7 @@ box-sizing: border-box;
 	text-transform: uppercase;
 	text-align: center;
 	box-sizing: border-box;
+	transition: all .325s ease 0s;
 }
 
 .btn-border-black:hover {
